@@ -1,2 +1,2 @@
 # java-problems
- solutions to the assignments from kunal kushwaha's java course
+ Solutions to the assignments from kunal kushwaha's java course
